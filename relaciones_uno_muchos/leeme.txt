@@ -1,0 +1,11 @@
+Se demuestra que en realidad, no necesitamos de inner joins
+cuando se utiliza jsbc, ya que podemos resolver las múltiples tablas
+usando un dto como resultado de la fución de dos objetos relacionados
+
+por efectos practicos, solamente se expone una consulta, se podría llenar una lista de comentarios
+por usuario, u tras combinaciones desde el facade. Mas los daos, no podrán contener una combinación de ambos.
+
+Se asume que la única representación las disponen los dtos, y que no podemos traer los datos directos desde 
+los daos. Si se quiere hacer algo como personas.getPosteos(), se debería hacer desde un personaDto.getPosteos y no
+
+desde las entidades.
