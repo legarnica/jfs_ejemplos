@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Ejemplo vista</title>
+</head>
+<body>
+
+	<h1>Productos</h1>
+
+	<ul>
+		<li th:text="'producto 1: ' + ${lineas.get(0)} + '!'"></li>
+		<li th:text="'producto 2: ' + ${lineas.get(1)} + '!'"></li>
+		<li th:text="'producto 3: ' + ${lineas.get(2)} + '!'"></li>
+	</ul>
+
+</body>
+</html>
