@@ -1,0 +1,693 @@
+2020-07-09 10:59:22.841  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15386 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 10:59:22.841  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 10:59:23.051  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 10:59:23.053  INFO 15386 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 10:59:23.053  INFO 15386 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 10:59:23.089  INFO 15386 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 10:59:23.090  INFO 15386 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 10:59:23.090  INFO 15386 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 247 ms
+2020-07-09 10:59:23.131  INFO 15386 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 10:59:23.142  INFO 15386 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 10:59:23.161  WARN 15386 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 10:59:23.234  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 10:59:23.246  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.436 seconds (JVM running for 625.644)
+2020-07-09 10:59:23.249  INFO 15386 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 11:00:13.087  INFO 15386 --- [Thread-600] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:00:13.228  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15386 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 11:00:13.228  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 11:00:13.383  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 11:00:13.385  INFO 15386 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 11:00:13.385  INFO 15386 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 11:00:13.491  INFO 15386 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 11:00:13.493  INFO 15386 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 11:00:13.493  INFO 15386 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 264 ms
+2020-07-09 11:00:13.532  INFO 15386 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:00:13.539  INFO 15386 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 11:00:13.567  WARN 15386 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 11:00:13.579  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 11:00:13.595  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.387 seconds (JVM running for 675.993)
+2020-07-09 11:00:13.597  INFO 15386 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 11:00:23.456  INFO 15386 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-09 11:00:23.460  INFO 15386 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-07-09 11:00:23.480  INFO 15386 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 20 ms
+2020-07-09 11:02:36.886  INFO 15386 --- [http-nio-8080-exec-1] c.lherrera.controller.EjemploController  : Dato de la vista: este es un dato
+2020-07-09 11:04:33.561  INFO 15386 --- [Thread-719] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:04:34.041  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15386 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 11:04:34.042  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 11:04:34.240  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 11:04:34.241  INFO 15386 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 11:04:34.241  INFO 15386 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 11:04:34.286  INFO 15386 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 11:04:34.287  INFO 15386 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 11:04:34.287  INFO 15386 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 243 ms
+2020-07-09 11:04:34.329  INFO 15386 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:04:34.338  INFO 15386 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 11:04:34.356  WARN 15386 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 11:04:34.371  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 11:04:34.378  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.58 seconds (JVM running for 936.776)
+2020-07-09 11:04:34.379  INFO 15386 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 11:05:39.055  INFO 15386 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-09 11:05:39.057  INFO 15386 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-07-09 11:05:39.060  INFO 15386 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2020-07-09 11:05:45.024  INFO 15386 --- [http-nio-8080-exec-2] c.lherrera.controller.EjemploController  : Dato de la vista: este es un dato
+2020-07-09 11:07:11.408  INFO 15386 --- [Thread-838] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:07:11.800  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15386 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 11:07:11.800  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 11:07:11.966  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 11:07:11.967  INFO 15386 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 11:07:11.967  INFO 15386 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 11:07:12.000  INFO 15386 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 11:07:12.001  INFO 15386 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 11:07:12.001  INFO 15386 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 199 ms
+2020-07-09 11:07:12.030  INFO 15386 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:07:12.043  INFO 15386 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 11:07:12.060  WARN 15386 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 11:07:12.065  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 11:07:12.074  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.554 seconds (JVM running for 1094.472)
+2020-07-09 11:07:12.076  INFO 15386 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 11:07:47.828  INFO 15386 --- [Thread-957] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:07:47.915  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15386 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 11:07:47.915  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 11:07:48.090  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 11:07:48.090  INFO 15386 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 11:07:48.091  INFO 15386 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 11:07:48.129  INFO 15386 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 11:07:48.130  INFO 15386 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 11:07:48.130  INFO 15386 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 213 ms
+2020-07-09 11:07:48.189  INFO 15386 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:07:48.198  INFO 15386 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 11:07:48.241  WARN 15386 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 11:07:48.297  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 11:07:48.309  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.422 seconds (JVM running for 1130.707)
+2020-07-09 11:07:48.311  INFO 15386 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 11:07:53.047  INFO 15386 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-09 11:07:53.049  INFO 15386 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-07-09 11:07:53.052  INFO 15386 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2020-07-09 11:07:58.001  INFO 15386 --- [http-nio-8080-exec-2] c.lherrera.controller.EjemploController  : Dato de la vista: 3874597348594798
+2020-07-09 11:08:07.139  INFO 15386 --- [http-nio-8080-exec-3] c.lherrera.controller.EjemploController  : Dato de la vista: dgfgdfdfgdfgf
+2020-07-09 11:08:16.280  INFO 15386 --- [http-nio-8080-exec-5] c.lherrera.controller.EjemploController  : Dato de la vista: fdsfsdfsdfds
+2020-07-09 11:08:24.140  INFO 15386 --- [http-nio-8080-exec-7] c.lherrera.controller.EjemploController  : Dato de la vista: dfdsjkfhdsjjkfdh
+2020-07-09 11:16:08.337  INFO 15386 --- [Thread-1076] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:16:08.518  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15386 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 11:16:08.518  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 11:16:08.717  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 11:16:08.718  INFO 15386 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 11:16:08.719  INFO 15386 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 11:16:08.785  INFO 15386 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 11:16:08.786  INFO 15386 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 11:16:08.786  INFO 15386 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 267 ms
+2020-07-09 11:16:08.823  INFO 15386 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:16:08.832  INFO 15386 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 11:16:08.860  WARN 15386 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 11:16:08.878  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 11:16:08.882  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.386 seconds (JVM running for 1631.28)
+2020-07-09 11:16:08.884  INFO 15386 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 11:18:32.633  INFO 15386 --- [Thread-1195] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:18:32.850  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15386 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 11:18:32.851  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 11:18:33.177  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 11:18:33.178  INFO 15386 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 11:18:33.178  INFO 15386 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 11:18:33.214  INFO 15386 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 11:18:33.214  INFO 15386 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 11:18:33.215  INFO 15386 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 359 ms
+2020-07-09 11:18:33.261  INFO 15386 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:18:33.270  INFO 15386 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 11:18:33.294  WARN 15386 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 11:18:33.389  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 11:18:33.405  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.712 seconds (JVM running for 1775.803)
+2020-07-09 11:18:33.406  INFO 15386 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 11:19:57.481  INFO 15386 --- [Thread-1314] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:19:57.568  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15386 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 11:19:57.569  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 11:19:57.731  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 11:19:57.732  INFO 15386 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 11:19:57.732  INFO 15386 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 11:19:57.774  INFO 15386 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 11:19:57.776  INFO 15386 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 11:19:57.776  INFO 15386 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 206 ms
+2020-07-09 11:19:57.830  INFO 15386 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:19:57.839  INFO 15386 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 11:19:57.912  WARN 15386 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 11:19:57.923  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 11:19:57.938  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.385 seconds (JVM running for 1860.336)
+2020-07-09 11:19:57.941  INFO 15386 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 11:23:58.764  INFO 15386 --- [Thread-1433] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:23:59.278  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15386 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 11:23:59.279  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 11:23:59.443  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 11:23:59.446  INFO 15386 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 11:23:59.447  INFO 15386 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 11:23:59.510  INFO 15386 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 11:23:59.514  INFO 15386 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 11:23:59.514  INFO 15386 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 234 ms
+2020-07-09 11:23:59.554  INFO 15386 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:23:59.566  INFO 15386 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 11:23:59.610  WARN 15386 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 11:23:59.618  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 11:23:59.623  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.691 seconds (JVM running for 2102.021)
+2020-07-09 11:23:59.625  INFO 15386 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 11:27:14.140  INFO 15386 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-09 11:27:14.143  INFO 15386 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-07-09 11:27:14.164  INFO 15386 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 20 ms
+2020-07-09 11:28:31.649  INFO 15386 --- [Thread-1552] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:28:32.120  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15386 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 11:28:32.120  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 11:28:32.358  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 11:28:32.358  INFO 15386 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 11:28:32.359  INFO 15386 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 11:28:32.400  INFO 15386 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 11:28:32.402  INFO 15386 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 11:28:32.402  INFO 15386 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 280 ms
+2020-07-09 11:28:32.459  INFO 15386 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:28:32.474  INFO 15386 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 11:28:32.528  WARN 15386 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 11:28:32.539  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 11:28:32.550  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.714 seconds (JVM running for 2374.948)
+2020-07-09 11:28:32.553  INFO 15386 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 11:29:42.698  INFO 15386 --- [Thread-1671] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:29:42.838  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15386 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 11:29:42.839  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 11:29:43.063  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 11:29:43.065  INFO 15386 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 11:29:43.065  INFO 15386 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 11:29:43.099  INFO 15386 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 11:29:43.099  INFO 15386 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 11:29:43.100  INFO 15386 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 259 ms
+2020-07-09 11:29:43.154  INFO 15386 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:29:43.168  INFO 15386 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 11:29:43.212  WARN 15386 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 11:29:43.221  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 11:29:43.258  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.455 seconds (JVM running for 2445.656)
+2020-07-09 11:29:43.259  INFO 15386 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 11:32:04.049  INFO 15386 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-09 11:32:04.054  INFO 15386 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-07-09 11:32:04.064  INFO 15386 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 10 ms
+2020-07-09 11:33:24.071  INFO 15386 --- [Thread-1790] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:33:24.372  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15386 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 11:33:24.372  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 11:33:24.584  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 11:33:24.584  INFO 15386 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 11:33:24.584  INFO 15386 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 11:33:24.629  INFO 15386 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 11:33:24.630  INFO 15386 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 11:33:24.630  INFO 15386 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 256 ms
+2020-07-09 11:33:24.684  INFO 15386 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:33:24.693  INFO 15386 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 11:33:24.834  WARN 15386 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 11:33:24.844  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 11:33:24.856  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.507 seconds (JVM running for 2667.254)
+2020-07-09 11:33:24.857  INFO 15386 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 11:33:42.858  INFO 15386 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-09 11:33:42.863  INFO 15386 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-07-09 11:33:42.867  INFO 15386 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2020-07-09 11:33:57.794  INFO 15386 --- [http-nio-8080-exec-4] c.lherrera.controller.EjemploController  : datos: []
+2020-07-09 11:34:04.385  INFO 15386 --- [http-nio-8080-exec-5] c.lherrera.controller.EjemploController  : datos: []
+2020-07-09 11:35:27.971  INFO 15386 --- [http-nio-8080-exec-8] c.lherrera.controller.EjemploController  : datos: []
+2020-07-09 11:35:32.040  INFO 15386 --- [http-nio-8080-exec-9] c.lherrera.controller.EjemploController  : datos: []
+2020-07-09 11:36:06.741  INFO 15386 --- [Thread-1909] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:36:07.124  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15386 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 11:36:07.124  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 11:36:07.296  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 11:36:07.297  INFO 15386 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 11:36:07.297  INFO 15386 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 11:36:07.330  INFO 15386 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 11:36:07.331  INFO 15386 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 11:36:07.331  INFO 15386 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 206 ms
+2020-07-09 11:36:07.378  INFO 15386 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:36:07.389  INFO 15386 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 11:36:07.408  WARN 15386 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 11:36:07.430  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 11:36:07.435  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.52 seconds (JVM running for 2829.833)
+2020-07-09 11:36:07.437  INFO 15386 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 11:36:40.293  INFO 15386 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-09 11:36:40.297  INFO 15386 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-07-09 11:36:40.301  INFO 15386 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2020-07-09 11:36:40.304  INFO 15386 --- [http-nio-8080-exec-1] c.lherrera.controller.EjemploController  : datos: []
+2020-07-09 11:36:45.344  INFO 15386 --- [http-nio-8080-exec-2] c.lherrera.controller.EjemploController  : datos: []
+2020-07-09 11:36:51.798  INFO 15386 --- [http-nio-8080-exec-4] c.lherrera.controller.EjemploController  : datos: [tarea 1]
+2020-07-09 11:36:57.252  INFO 15386 --- [http-nio-8080-exec-6] c.lherrera.controller.EjemploController  : datos: [tarea 1, tarea 2]
+2020-07-09 11:38:57.537  INFO 15386 --- [Thread-2028] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:38:57.840  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15386 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 11:38:57.840  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 11:38:58.032  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 11:38:58.033  INFO 15386 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 11:38:58.034  INFO 15386 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 11:38:58.075  INFO 15386 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 11:38:58.076  INFO 15386 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 11:38:58.076  INFO 15386 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 234 ms
+2020-07-09 11:38:58.118  INFO 15386 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:38:58.126  INFO 15386 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 11:38:58.147  WARN 15386 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 11:38:58.157  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 11:38:58.204  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.518 seconds (JVM running for 3000.602)
+2020-07-09 11:38:58.207  INFO 15386 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 11:39:40.970  INFO 15386 --- [Thread-2147] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:39:41.064  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15386 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 11:39:41.065  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 11:39:41.255  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 11:39:41.256  INFO 15386 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 11:39:41.256  INFO 15386 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 11:39:41.285  INFO 15386 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 11:39:41.285  INFO 15386 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 11:39:41.285  INFO 15386 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 219 ms
+2020-07-09 11:39:41.311  INFO 15386 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:39:41.328  INFO 15386 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 11:39:41.349  WARN 15386 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 11:39:41.357  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 11:39:41.365  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.32 seconds (JVM running for 3043.763)
+2020-07-09 11:39:41.366  INFO 15386 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 11:40:11.027  INFO 15386 --- [Thread-2266] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:40:11.110  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15386 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 11:40:11.111  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 11:40:11.247  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 11:40:11.248  INFO 15386 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 11:40:11.248  INFO 15386 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 11:40:11.279  INFO 15386 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 11:40:11.280  INFO 15386 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 11:40:11.280  INFO 15386 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 167 ms
+2020-07-09 11:40:11.315  INFO 15386 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:40:11.324  INFO 15386 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 11:40:11.342  WARN 15386 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 11:40:11.349  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 11:40:11.357  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.269 seconds (JVM running for 3073.755)
+2020-07-09 11:40:11.358  INFO 15386 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 11:40:41.054  INFO 15386 --- [Thread-2385] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:40:41.153  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15386 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 11:40:41.153  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 11:40:41.340  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 11:40:41.341  INFO 15386 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 11:40:41.341  INFO 15386 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 11:40:41.375  INFO 15386 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 11:40:41.376  INFO 15386 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 11:40:41.376  INFO 15386 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 222 ms
+2020-07-09 11:40:41.402  INFO 15386 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:40:41.412  INFO 15386 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 11:40:41.430  WARN 15386 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 11:40:41.436  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 11:40:41.442  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.304 seconds (JVM running for 3103.84)
+2020-07-09 11:40:41.446  INFO 15386 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 11:45:24.493  INFO 15386 --- [Thread-2504] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:45:24.775  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15386 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 11:45:24.776  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 11:45:24.906  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 11:45:24.907  INFO 15386 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 11:45:24.907  INFO 15386 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 11:45:24.934  INFO 15386 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 11:45:24.935  INFO 15386 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 11:45:24.935  INFO 15386 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 158 ms
+2020-07-09 11:45:24.959  INFO 15386 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:45:24.970  INFO 15386 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 11:45:25.000  WARN 15386 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 11:45:25.011  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 11:45:25.018  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.452 seconds (JVM running for 3387.416)
+2020-07-09 11:45:25.020  INFO 15386 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 11:52:09.134  INFO 15386 --- [Thread-2623] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:52:09.401  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15386 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 11:52:09.402  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 11:52:09.542  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 11:52:09.543  INFO 15386 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 11:52:09.543  INFO 15386 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 11:52:09.581  INFO 15386 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 11:52:09.581  INFO 15386 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 11:52:09.581  INFO 15386 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 176 ms
+2020-07-09 11:52:09.612  INFO 15386 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:52:09.622  INFO 15386 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 11:52:09.636  WARN 15386 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 11:52:09.643  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 11:52:09.649  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.453 seconds (JVM running for 3792.047)
+2020-07-09 11:52:09.650  INFO 15386 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 11:54:08.157  INFO 15386 --- [Thread-2742] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:54:08.249  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15386 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 11:54:08.250  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 11:54:08.441  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 11:54:08.441  INFO 15386 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 11:54:08.441  INFO 15386 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 11:54:08.475  INFO 15386 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 11:54:08.475  INFO 15386 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 11:54:08.476  INFO 15386 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 224 ms
+2020-07-09 11:54:08.506  INFO 15386 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:54:08.516  INFO 15386 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 11:54:08.538  WARN 15386 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 11:54:08.545  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 11:54:08.551  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.325 seconds (JVM running for 3910.949)
+2020-07-09 11:54:08.554  INFO 15386 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 11:54:21.074  INFO 15386 --- [Thread-2861] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:54:21.166  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15386 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 11:54:21.166  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 11:54:21.316  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 11:54:21.316  INFO 15386 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 11:54:21.316  INFO 15386 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 11:54:21.347  INFO 15386 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 11:54:21.348  INFO 15386 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 11:54:21.348  INFO 15386 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 181 ms
+2020-07-09 11:54:21.377  INFO 15386 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:54:21.386  INFO 15386 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 11:54:21.404  WARN 15386 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 11:54:21.412  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 11:54:21.419  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.272 seconds (JVM running for 3923.817)
+2020-07-09 11:54:21.421  INFO 15386 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 11:55:21.410  INFO 15386 --- [Thread-2980] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:55:21.490  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15386 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 11:55:21.491  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 11:55:21.646  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 11:55:21.647  INFO 15386 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 11:55:21.647  INFO 15386 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 11:55:21.674  INFO 15386 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 11:55:21.675  INFO 15386 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 11:55:21.675  INFO 15386 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 182 ms
+2020-07-09 11:55:21.699  INFO 15386 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:55:21.710  INFO 15386 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 11:55:21.733  WARN 15386 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 11:55:21.740  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 11:55:21.831  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.355 seconds (JVM running for 3984.229)
+2020-07-09 11:55:21.834  INFO 15386 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 11:55:32.572  INFO 15386 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-09 11:55:32.579  INFO 15386 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-07-09 11:55:32.583  INFO 15386 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2020-07-09 11:56:43.933  INFO 15386 --- [Thread-3099] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:56:44.214  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15386 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 11:56:44.214  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 11:56:44.380  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 11:56:44.381  INFO 15386 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 11:56:44.381  INFO 15386 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 11:56:44.415  INFO 15386 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 11:56:44.415  INFO 15386 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 11:56:44.415  INFO 15386 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 200 ms
+2020-07-09 11:56:44.437  INFO 15386 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:56:44.448  INFO 15386 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 11:56:44.465  WARN 15386 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 11:56:44.471  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 11:56:44.475  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.444 seconds (JVM running for 4066.873)
+2020-07-09 11:56:44.476  INFO 15386 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 11:56:47.927  INFO 15386 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-09 11:56:47.932  INFO 15386 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-07-09 11:56:47.937  INFO 15386 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2020-07-09 11:57:55.564  INFO 15386 --- [Thread-3218] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:57:55.658  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15386 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 11:57:55.658  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 11:57:55.968  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 11:57:55.969  INFO 15386 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 11:57:55.969  INFO 15386 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 11:57:55.998  INFO 15386 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 11:57:55.999  INFO 15386 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 11:57:55.999  INFO 15386 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 339 ms
+2020-07-09 11:57:56.029  INFO 15386 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:57:56.038  INFO 15386 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 11:57:56.052  WARN 15386 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 11:57:56.059  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 11:57:56.085  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.439 seconds (JVM running for 4138.483)
+2020-07-09 11:57:56.087  INFO 15386 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 11:58:12.883  INFO 15386 --- [Thread-3337] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:58:13.077  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15386 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 11:58:13.078  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 11:58:13.327  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 11:58:13.329  INFO 15386 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 11:58:13.330  INFO 15386 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 11:58:13.378  INFO 15386 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 11:58:13.379  INFO 15386 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 11:58:13.379  INFO 15386 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 296 ms
+2020-07-09 11:58:13.416  INFO 15386 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:58:13.425  INFO 15386 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 11:58:13.439  WARN 15386 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 11:58:13.446  INFO 15386 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 11:58:13.469  INFO 15386 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.417 seconds (JVM running for 4155.867)
+2020-07-09 11:58:13.469  INFO 15386 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 11:58:23.423  INFO 15386 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-09 11:58:23.427  INFO 15386 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-07-09 11:58:23.430  INFO 15386 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2020-07-09 11:58:23.436  INFO 15386 --- [http-nio-8080-exec-1] c.lherrera.controller.EjemploController  : TAREA: Tarea [texto=texto, nivel=ALTO]
+2020-07-09 11:59:04.541  INFO 15386 --- [RMI TCP Connection(164)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-07-09 11:59:04.558  INFO 15386 --- [RMI TCP Connection(164)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:59:12.038  INFO 15752 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15752 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 11:59:12.040  INFO 15752 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 11:59:12.078  INFO 15752 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-07-09 11:59:12.078  INFO 15752 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-07-09 11:59:12.915  INFO 15752 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 11:59:12.922  INFO 15752 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 11:59:12.923  INFO 15752 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 11:59:13.210  INFO 15752 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 11:59:13.216  INFO 15752 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 11:59:13.216  INFO 15752 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1138 ms
+2020-07-09 11:59:13.405  INFO 15752 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 11:59:13.455  INFO 15752 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 11:59:13.536  WARN 15752 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 11:59:13.580  INFO 15752 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 11:59:13.599  INFO 15752 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 1.926 seconds (JVM running for 2.933)
+2020-07-09 11:59:20.215  INFO 15752 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-09 11:59:20.216  INFO 15752 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-07-09 11:59:20.224  INFO 15752 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2020-07-09 11:59:20.254  INFO 15752 --- [http-nio-8080-exec-1] c.lherrera.controller.EjemploController  : TAREA: Tarea [texto=null, nivel=null]
+2020-07-09 11:59:27.253  INFO 15752 --- [http-nio-8080-exec-2] c.lherrera.controller.EjemploController  : TAREA: Tarea [texto=texto, nivel=ALTO]
+2020-07-09 11:59:41.803  INFO 15752 --- [http-nio-8080-exec-4] c.lherrera.controller.EjemploController  : TAREA: Tarea [texto=texto 2, nivel=BAJO]
+2020-07-09 12:01:06.048  INFO 15752 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 12:01:06.179  INFO 15752 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15752 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 12:01:06.180  INFO 15752 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 12:01:06.413  INFO 15752 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 12:01:06.415  INFO 15752 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 12:01:06.415  INFO 15752 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 12:01:06.506  INFO 15752 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 12:01:06.507  INFO 15752 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 12:01:06.507  INFO 15752 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 323 ms
+2020-07-09 12:01:06.559  INFO 15752 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 12:01:06.598  INFO 15752 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 12:01:06.672  WARN 15752 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 12:01:06.684  INFO 15752 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 12:01:06.695  INFO 15752 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.548 seconds (JVM running for 116.03)
+2020-07-09 12:01:06.697  INFO 15752 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 12:01:11.027  INFO 15752 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-09 12:01:11.029  INFO 15752 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-07-09 12:01:11.037  INFO 15752 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2020-07-09 12:01:11.054 ERROR 15752 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Handler dispatch failed; nested exception is java.lang.Error: Unresolved compilation problem: 
+	Syntax error, insert ";" to complete Statement
+] with root cause
+
+java.lang.Error: Unresolved compilation problem: 
+	Syntax error, insert ";" to complete Statement
+
+	at cl.lherrera.controller.EjemploController.porHacer(EjemploController.java:89) ~[classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_181]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_181]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_181]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_181]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190) ~[spring-web-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138) ~[spring-web-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105) ~[spring-webmvc-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879) ~[spring-webmvc-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793) ~[spring-webmvc-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040) ~[spring-webmvc-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.36.jar:9.0.36]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) [tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373) [tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868) [tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590) [tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.36.jar:9.0.36]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [na:1.8.0_181]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [na:1.8.0_181]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.36.jar:9.0.36]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_181]
+
+2020-07-09 12:01:13.256 ERROR 15752 --- [http-nio-8080-exec-2] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Handler dispatch failed; nested exception is java.lang.Error: Unresolved compilation problem: 
+	Syntax error, insert ";" to complete Statement
+] with root cause
+
+java.lang.Error: Unresolved compilation problem: 
+	Syntax error, insert ";" to complete Statement
+
+	at cl.lherrera.controller.EjemploController.porHacer(EjemploController.java:89) ~[classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_181]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_181]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_181]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_181]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190) ~[spring-web-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138) ~[spring-web-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105) ~[spring-webmvc-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879) ~[spring-webmvc-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793) ~[spring-webmvc-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040) ~[spring-webmvc-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.36.jar:9.0.36]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.7.RELEASE.jar:5.2.7.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) [tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373) [tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868) [tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590) [tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.36.jar:9.0.36]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [na:1.8.0_181]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [na:1.8.0_181]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.36.jar:9.0.36]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_181]
+
+2020-07-09 12:01:22.285  INFO 15752 --- [Thread-124] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 12:01:22.419  INFO 15752 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15752 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 12:01:22.419  INFO 15752 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 12:01:22.651  INFO 15752 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 12:01:22.652  INFO 15752 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 12:01:22.652  INFO 15752 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 12:01:22.736  INFO 15752 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 12:01:22.738  INFO 15752 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 12:01:22.739  INFO 15752 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 314 ms
+2020-07-09 12:01:22.847  INFO 15752 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 12:01:22.908  INFO 15752 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 12:01:22.947  WARN 15752 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 12:01:22.959  INFO 15752 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 12:01:22.974  INFO 15752 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.579 seconds (JVM running for 132.309)
+2020-07-09 12:01:22.976  INFO 15752 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 12:01:23.165  INFO 15752 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-09 12:01:23.167  INFO 15752 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-07-09 12:01:23.171  INFO 15752 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2020-07-09 12:01:23.173  INFO 15752 --- [http-nio-8080-exec-1] c.lherrera.controller.EjemploController  : TAREA: Tarea [texto=null, nivel=null]
+2020-07-09 12:01:30.863  INFO 15752 --- [http-nio-8080-exec-2] c.lherrera.controller.EjemploController  : TAREA: Tarea [texto=texto 2, nivel=ALTO]
+2020-07-09 12:01:35.877  INFO 15752 --- [http-nio-8080-exec-4] c.lherrera.controller.EjemploController  : TAREA: Tarea [texto=texto 2, nivel=ALTO]
+2020-07-09 12:02:20.287  INFO 15752 --- [http-nio-8080-exec-6] c.lherrera.controller.EjemploController  : TAREA: Tarea [texto=null, nivel=null]
+2020-07-09 12:02:52.398  INFO 15752 --- [http-nio-8080-exec-8] c.lherrera.controller.EjemploController  : TAREA: Tarea [texto=hacer desafío, nivel=MEDIO]
+2020-07-09 12:04:29.184  INFO 15752 --- [Thread-243] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 12:04:29.303  INFO 15752 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15752 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 12:04:29.303  INFO 15752 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 12:04:29.461  INFO 15752 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 12:04:29.462  INFO 15752 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 12:04:29.462  INFO 15752 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 12:04:29.504  INFO 15752 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 12:04:29.505  INFO 15752 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 12:04:29.505  INFO 15752 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 199 ms
+2020-07-09 12:04:29.560  INFO 15752 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 12:04:29.571  INFO 15752 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 12:04:29.647  WARN 15752 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 12:04:29.657  INFO 15752 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 12:04:29.664  INFO 15752 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.381 seconds (JVM running for 318.998)
+2020-07-09 12:04:29.665  INFO 15752 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 12:07:38.836  INFO 15752 --- [Thread-362] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 12:07:39.224  INFO 15752 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15752 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 12:07:39.225  INFO 15752 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 12:07:39.403  INFO 15752 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 12:07:39.404  INFO 15752 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 12:07:39.404  INFO 15752 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 12:07:39.451  INFO 15752 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 12:07:39.452  INFO 15752 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 12:07:39.452  INFO 15752 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 225 ms
+2020-07-09 12:07:39.508  INFO 15752 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 12:07:39.517  INFO 15752 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 12:07:39.589  WARN 15752 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 12:07:39.605  INFO 15752 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 12:07:39.618  INFO 15752 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.67 seconds (JVM running for 508.952)
+2020-07-09 12:07:39.619  INFO 15752 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 12:25:17.520  INFO 15752 --- [Thread-481] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 12:25:17.901  INFO 15752 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15752 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 12:25:17.902  INFO 15752 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 12:25:18.150  INFO 15752 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 12:25:18.151  INFO 15752 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 12:25:18.151  INFO 15752 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 12:25:18.197  INFO 15752 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 12:25:18.198  INFO 15752 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 12:25:18.198  INFO 15752 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 294 ms
+2020-07-09 12:25:18.242  INFO 15752 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 12:25:18.251  INFO 15752 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 12:25:18.272  WARN 15752 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 12:25:18.290  INFO 15752 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 12:25:18.301  INFO 15752 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.566 seconds (JVM running for 1567.635)
+2020-07-09 12:25:18.302  INFO 15752 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 12:25:25.829  INFO 15752 --- [Thread-600] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 12:25:25.953  INFO 15752 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15752 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 12:25:25.954  INFO 15752 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 12:25:26.269  INFO 15752 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 12:25:26.270  INFO 15752 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 12:25:26.270  INFO 15752 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 12:25:26.313  INFO 15752 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 12:25:26.316  INFO 15752 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 12:25:26.316  INFO 15752 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 360 ms
+2020-07-09 12:25:26.361  INFO 15752 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 12:25:26.370  INFO 15752 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 12:25:26.387  WARN 15752 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 12:25:26.396  INFO 15752 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 12:25:26.421  INFO 15752 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.495 seconds (JVM running for 1575.755)
+2020-07-09 12:25:26.423  INFO 15752 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 12:26:44.544  INFO 15752 --- [Thread-719] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 12:26:44.646  INFO 15752 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15752 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 12:26:44.646  INFO 15752 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 12:26:44.837  INFO 15752 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 12:26:44.838  INFO 15752 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 12:26:44.838  INFO 15752 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 12:26:44.875  INFO 15752 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 12:26:44.876  INFO 15752 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 12:26:44.876  INFO 15752 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 228 ms
+2020-07-09 12:26:44.910  INFO 15752 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 12:26:44.921  INFO 15752 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 12:26:44.936  WARN 15752 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 12:26:44.943  INFO 15752 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 12:26:44.947  INFO 15752 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.318 seconds (JVM running for 1654.281)
+2020-07-09 12:26:44.948  INFO 15752 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 12:29:08.802  INFO 15752 --- [Thread-838] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-09 12:29:09.356  INFO 15752 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Starting EjejmploLecturaApplication on MacBook-Pro-de-Luis.local with PID 15752 (/Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura/target/classes started by luisherrera in /Users/luisherrera/Desktop/AIEP - DOCS/NEWMODS/MOD05/proyectos002/ejejmploLectura)
+2020-07-09 12:29:09.356  INFO 15752 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : No active profile set, falling back to default profiles: default
+2020-07-09 12:29:09.546  INFO 15752 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-09 12:29:09.547  INFO 15752 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-09 12:29:09.547  INFO 15752 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-09 12:29:09.595  INFO 15752 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-07-09 12:29:09.596  INFO 15752 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-09 12:29:09.596  INFO 15752 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 238 ms
+2020-07-09 12:29:09.642  INFO 15752 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-09 12:29:09.652  INFO 15752 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-09 12:29:09.677  WARN 15752 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2020-07-09 12:29:09.705  INFO 15752 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-09 12:29:09.711  INFO 15752 --- [restartedMain] cl.lherrera.EjejmploLecturaApplication   : Started EjejmploLecturaApplication in 0.58 seconds (JVM running for 1799.045)
+2020-07-09 12:29:09.713  INFO 15752 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-09 12:58:38.493  INFO 15752 --- [RMI TCP Connection(94)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-07-09 12:58:38.538  INFO 15752 --- [RMI TCP Connection(94)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
