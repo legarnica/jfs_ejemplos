@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<title>Noticias - Web</title>
+<link rel="stylesheet"
+	href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+	integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk"
+	crossorigin="anonymous">
+
+</head>
+
+<body>
+
+	<h1 style="margin: 0; text-align: center; font-size: 100px">Sistema
+		de Noticias</h1>
+	<hr />
+
+	<div class="row">
+		<div class="col mx-2">
+			<div class="card" style="width: 16rem;">
+				<img th:src="${noticia1[2]}" class="card-img-top" alt="...">
+				<div class="card-body">
+					<h5 class="card-title" th:text="${noticia1[0]}"></h5>
+					<p class="card-text" th:text="${noticia1[1]}"></p>
+				</div>
+			</div>
+		</div>
+		<div class="col mx-2">
+			<div class="card" style="width: 16rem;">
+				<img th:src="${noticia2[2]}" class="card-img-top" alt="...">
+				<div class="card-body">
+					<h5 class="card-title" th:text="${noticia2[0]}"></h5>
+					<p class="card-text" th:text="${noticia2[1]}"></p>
+				</div>
+			</div>
+		</div>
+		<div class="col mx-2">
+			<div class="card" style="width: 16rem;">
+				<img th:src="${noticia3[2]}" class="card-img-top" alt="...">
+				<div class="card-body">
+					<h5 class="card-title" th:text="${noticia3[0]}"></h5>
+					<p class="card-text" th:text="${noticia3[1]}"></p>
+				</div>
+			</div>
+		</div>
+		<div class="col mx-2">
+			<div class="card" style="width: 16rem;">
+				<img th:src="${noticia4[2]}" class="card-img-top" alt="...">
+				<div class="card-body">
+					<h5 class="card-title" th:text="${noticia4[0]}"></h5>
+					<p class="card-text" th:text="${noticia4[1]}"></p>
+				</div>
+			</div>
+		</div>
+		<div class="col mx-2">
+			<div class="card" style="width: 16rem;">
+				<img th:src="${noticia5[2]}" class="card-img-top" alt="...">
+				<div class="card-body">
+					<h5 class="card-title" th:text="${noticia5[0]}"></h5>
+					<p class="card-text" th:text="${noticia5[1]}"></p>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+
+</html>
